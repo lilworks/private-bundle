@@ -1,1 +1,14 @@
-
+{
+    "manifests": {
+        "lilworks/private-bundle": {
+            "manifest": {
+                "bundles": {
+                    "lilworks\\PrivateBundle\\LilworksPrivateBundle": [
+                        "all"
+                    ]
+                }
+            },
+            "ref": "31a0ca24c3610c50a3b34cd47da22ea6e534a25a"
+        }
+    }
+}
