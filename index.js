@@ -1,14 +1,14 @@
 {
     "manifests": {
-        "acme/private-bundle": {
+        "lilworks/private-bundle": {
             "manifest": {
                 "bundles": {
-                    "Acme\\PrivateBundle\\AcmePrivateBundle": [
+                    "lilworks\\PrivateBundle\\LilworksPrivateBundle": [
                         "all"
                     ]
                 }
             },
-            "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff00"
+            "ref": "31a0ca24c3610c50a3b34cd47da22ea6e534a25a"
         }
     }
 }
